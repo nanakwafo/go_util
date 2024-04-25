@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	// "github.com/nanakwafo/util/utils"
+	//"github.com/nanakwafo/go_util/utils"
 )
 
 func main() {
-	fmt.Println(utils.)
+	fmt.Println("hello")
 }
